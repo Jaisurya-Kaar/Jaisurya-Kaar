@@ -79,10 +79,10 @@ public class Jaisurya {
 <div align="center">
 
 <a href="https://github.com/Jaisurya-Kaar">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Jaisurya-Kaar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Jaisurya-Kaar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10&cache_seconds=1800"/>
 </a>
 <a href="https://github.com/Jaisurya-Kaar">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaisurya-Kaar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaisurya-Kaar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10&cache_seconds=1800"/>
 </a>
 
 </div>
@@ -113,7 +113,7 @@ public class Jaisurya {
 
 <div align="center">
   <a href="https://github.com/Jaisurya-Kaar">
-    <img src="https://github-profile-trophy.vercel.app/?username=Jaisurya-Kaar&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Jaisurya's GitHub Trophies" referrerpolicy="no-referrer"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=Jaisurya-Kaar&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=8&margin-h=8" alt="Jaisurya's GitHub Trophies" referrerpolicy="no-referrer"/>
   </a>
 </div>
 
