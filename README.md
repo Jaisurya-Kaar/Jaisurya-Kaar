@@ -78,11 +78,11 @@ public class Jaisurya {
 
 <div align="center">
 
-<a href="https://github.com/jaisuryak201">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jaisuryak201&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+<a href="https://github.com/Jaisurya-Kaar">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Jaisurya-Kaar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
 </a>
-<a href="https://github.com/jaisuryak201">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaisuryak201&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+<a href="https://github.com/Jaisurya-Kaar">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaisurya-Kaar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
 </a>
 
 </div>
@@ -93,7 +93,7 @@ public class Jaisurya {
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=jaisuryak201&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://github.com/jaisuryak201)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Jaisurya-Kaar&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://github.com/Jaisurya-Kaar)
 
 </div>
 
@@ -103,7 +103,7 @@ public class Jaisurya {
 
 <div align="center">
 
-[![Jaisurya's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jaisuryak201&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/jaisuryak201)
+[![Jaisurya's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jaisurya-Kaar&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/Jaisurya-Kaar)
 
 </div>
 
@@ -113,7 +113,7 @@ public class Jaisurya {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jaisuryak201&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/jaisuryak201)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Jaisurya-Kaar&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/Jaisurya-Kaar)
 
 </div>
 
@@ -156,7 +156,7 @@ public class Jaisurya {
 
 | 🔗 Project | 🛠️ Stack | ✨ Highlights |
 |:---|:---|:---|
-| [**IoT Wireless Controlled Car**](https://github.com/jaisuryak201) | ESP32, Embedded C, IoT | Designed & built a wireless-controlled car using ESP32 microcontroller; implemented real-time control via IoT principles; optimized hardware performance |
+| [**IoT Wireless Controlled Car**](https://github.com/Jaisurya-Kaar) | ESP32, Embedded C, IoT | Designed & built a wireless-controlled car using ESP32 microcontroller; implemented real-time control via IoT principles; optimized hardware performance |
 | [**Personal Portfolio Website**](https://jaisuryak201.github.io) | HTML, CSS, GitHub Pages | Developed a fully responsive portfolio; deployed live on GitHub Pages; showcases projects, skills, and achievements |
 
 </div>
@@ -210,9 +210,9 @@ public class Jaisurya {
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jaisuryak--boj-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jaisuryak-boj)
-[![Portfolio](https://img.shields.io/badge/Portfolio-jaisuryak201.github.io-181717?style=flat-square&logo=github&logoColor=white)](https://jaisuryak201.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Jaisurya-Kaar.github.io-181717?style=flat-square&logo=github&logoColor=white)](https://jaisuryak201.github.io)
 [![Email](https://img.shields.io/badge/Email-jaisuryak122404%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jaisuryak122404@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=jaisuryak201&style=flat-square&color=70a5fd&label=Profile+Views)](https://github.com/jaisuryak201)
+[![Profile Views](https://komarev.com/ghpvc/?username=Jaisurya-Kaar&style=flat-square&color=70a5fd&label=Profile+Views)](https://github.com/Jaisurya-Kaar)
 
 </div>
 
