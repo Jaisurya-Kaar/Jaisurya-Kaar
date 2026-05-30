@@ -112,9 +112,9 @@ public class Jaisurya {
 ## 🏆 Trophy Wall
 
 <div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Jaisurya-Kaar&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/Jaisurya-Kaar)
-
+  <a href="https://github.com/Jaisurya-Kaar">
+    <img src="https://github-profile-trophy.vercel.app/?username=Jaisurya-Kaar&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Jaisurya's GitHub Trophies" referrerpolicy="no-referrer"/>
+  </a>
 </div>
 
 ---
